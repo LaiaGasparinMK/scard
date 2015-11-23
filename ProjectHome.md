@@ -1,0 +1,1 @@
+This is a simple project. It is only a C++ wrapper for WinsCard API.
